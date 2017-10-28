@@ -206,4 +206,8 @@ canvas {
   .intro-text {
     font-size: 32px;
   }
+
+  .about-me-text {
+    margin-top: 15px;
+  }
 }
