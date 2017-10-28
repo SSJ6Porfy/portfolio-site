@@ -124,6 +124,20 @@ canvas {
   justify-content: space-between;
 }
 
+.resume-btn {
+  background: transparent;
+  color: #ff8300;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+  border: 2px solid #ff8300;
+}
+
+.resume-btn:hover {
+  background: #ff8300;
+  color: black;
+  font-weight: bold;
+}
+
 
 @media (max-width: 767px) {
   .icon-ruby-on-rails-alt, .icon-reactjs, .icon-ruby, .icon-javascript-alt, .icon-postgres, .icon-d3, .icon-npm, .icon-python, .icon-html5-alt, .icon-css3-alt {
@@ -210,4 +224,5 @@ canvas {
   .about-me-text {
     margin-top: 15px;
   }
+
 }
