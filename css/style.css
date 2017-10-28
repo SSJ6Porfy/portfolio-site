@@ -140,7 +140,16 @@ canvas {
 
 
 @media (max-width: 767px) {
-  .icon-ruby-on-rails-alt, .icon-reactjs, .icon-ruby, .icon-javascript-alt, .icon-postgres, .icon-d3, .icon-npm, .icon-python, .icon-html5-alt, .icon-css3-alt {
+  .icon-ruby-on-rails-alt, 
+  .icon-reactjs, 
+  .icon-ruby, 
+  .icon-javascript-alt, 
+  .icon-postgres, 
+  .icon-d3, 
+  .icon-npm, 
+  .icon-python, 
+  .icon-html5-alt, 
+  .icon-css3-alt {
     color: #ff8300;
     font-size: 45px;
     margin-right: 15px;
@@ -199,7 +208,7 @@ canvas {
 
   #particles-js {
     top: 0;
-    height: 95%;
+    height: 86%;
   }
 
   #about p {
