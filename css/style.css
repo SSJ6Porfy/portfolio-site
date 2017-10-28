@@ -184,7 +184,8 @@ canvas {
   }
 
   #particles-js {
-    top: 50px;
+    top: 0;
+    height: 95%;
   }
 
   #about p {
@@ -200,5 +201,9 @@ canvas {
   }
   .icon-container p {
     margin: 0;
+  }
+
+  .intro-text {
+    font-size: 32px;
   }
 }
